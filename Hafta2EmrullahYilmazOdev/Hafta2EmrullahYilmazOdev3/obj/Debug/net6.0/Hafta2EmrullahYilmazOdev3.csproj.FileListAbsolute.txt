@@ -1,0 +1,15 @@
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\bin\Debug\net6.0\Hafta2EmrullahYilmazOdev3.exe
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\bin\Debug\net6.0\Hafta2EmrullahYilmazOdev3.deps.json
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\bin\Debug\net6.0\Hafta2EmrullahYilmazOdev3.runtimeconfig.json
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\bin\Debug\net6.0\Hafta2EmrullahYilmazOdev3.dll
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\bin\Debug\net6.0\Hafta2EmrullahYilmazOdev3.pdb
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.csproj.AssemblyReference.cache
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.AssemblyInfoInputs.cache
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.AssemblyInfo.cs
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.dll
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\refint\Hafta2EmrullahYilmazOdev3.dll
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.pdb
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\Hafta2EmrullahYilmazOdev3.genruntimeconfig.cache
+C:\Users\Emrullah\source\repos\Hafta2EmrullahYilmazOdev\Hafta2EmrullahYilmazOdev3\obj\Debug\net6.0\ref\Hafta2EmrullahYilmazOdev3.dll
