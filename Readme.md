@@ -1,1 +1,1 @@
-Patika.dev & Teleperformance Dotnet Bootcamp Homeworks
+Patika.dev & Teleperformance Dotnet Core Bootcamp Homeworks
