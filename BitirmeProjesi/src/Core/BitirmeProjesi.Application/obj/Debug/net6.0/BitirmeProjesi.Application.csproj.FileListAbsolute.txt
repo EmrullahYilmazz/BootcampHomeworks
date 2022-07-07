@@ -1,0 +1,15 @@
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\bin\Debug\net6.0\BitirmeProjesi.Application.deps.json
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\bin\Debug\net6.0\BitirmeProjesi.Application.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\bin\Debug\net6.0\BitirmeProjesi.Application.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\bin\Debug\net6.0\BitirmeProjesi.Domain.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\bin\Debug\net6.0\BitirmeProjesi.Domain.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.csproj.AssemblyReference.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.AssemblyInfoInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.AssemblyInfo.cs
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.csproj.CopyComplete
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\refint\BitirmeProjesi.Application.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\BitirmeProjesi.Application.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Core\BitirmeProjesi.Application\obj\Debug\net6.0\ref\BitirmeProjesi.Application.dll

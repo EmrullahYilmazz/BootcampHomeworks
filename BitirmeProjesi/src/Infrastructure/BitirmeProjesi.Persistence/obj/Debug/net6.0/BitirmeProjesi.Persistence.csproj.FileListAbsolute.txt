@@ -1,0 +1,17 @@
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\bin\Debug\net6.0\BitirmeProjesi.Persistence.deps.json
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\bin\Debug\net6.0\BitirmeProjesi.Persistence.runtimeconfig.json
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\bin\Debug\net6.0\BitirmeProjesi.Persistence.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\bin\Debug\net6.0\BitirmeProjesi.Persistence.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\bin\Debug\net6.0\BitirmeProjesi.Domain.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\bin\Debug\net6.0\BitirmeProjesi.Domain.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.csproj.AssemblyReference.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.AssemblyInfoInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.AssemblyInfo.cs
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.csproj.CopyComplete
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\refint\BitirmeProjesi.Persistence.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\BitirmeProjesi.Persistence.genruntimeconfig.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Persistence\obj\Debug\net6.0\ref\BitirmeProjesi.Persistence.dll

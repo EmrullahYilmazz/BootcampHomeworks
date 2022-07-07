@@ -1,0 +1,17 @@
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\bin\Debug\net6.0\ClienRabbitMQ.exe
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\bin\Debug\net6.0\ClienRabbitMQ.deps.json
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\bin\Debug\net6.0\ClienRabbitMQ.runtimeconfig.json
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\bin\Debug\net6.0\ClienRabbitMQ.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\bin\Debug\net6.0\ClienRabbitMQ.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.AssemblyInfo.cs
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.csproj.CopyComplete
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\refint\ClienRabbitMQ.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ClienRabbitMQ.genruntimeconfig.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\ClienRabbitMQ\obj\Debug\net6.0\ref\ClienRabbitMQ.dll

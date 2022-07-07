@@ -1,0 +1,15 @@
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\bin\Debug\net6.0\BitirmeProjesi.Infrastructure.deps.json
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\bin\Debug\net6.0\BitirmeProjesi.Infrastructure.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\bin\Debug\net6.0\BitirmeProjesi.Infrastructure.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.AssemblyInfo.cs
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\refint\BitirmeProjesi.Infrastructure.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\ref\BitirmeProjesi.Infrastructure.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\bin\Debug\net6.0\BitirmeProjesi.Domain.dll
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\bin\Debug\net6.0\BitirmeProjesi.Domain.pdb
+C:\Users\Emrullah\source\repos\BitirmeProjesi\src\Infrastructure\BitirmeProjesi.Infrastructure\obj\Debug\net6.0\BitirmeProjesi.Infrastructure.csproj.CopyComplete
